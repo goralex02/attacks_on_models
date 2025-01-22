@@ -1,0 +1,11 @@
+image_path,label
+yolo_dataset/val/0/image_19982.png,0
+yolo_dataset/val/1/image_19442.png,1
+yolo_dataset/val/2/image_8650.png,2
+yolo_dataset/val/3/image_11735.png,3
+yolo_dataset/val/4/image_13580.png,4
+yolo_dataset/val/5/image_21344.png,5
+yolo_dataset/val/6/image_21274.png,6
+yolo_dataset/val/7/image_21785.png,7
+yolo_dataset/val/8/image_21175.png,8
+yolo_dataset/val/9/image_22530.png,9
